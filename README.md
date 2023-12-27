@@ -1,4 +1,4 @@
-# Option1Basic Dashboard
+# evotech assessment Dashboard
 
 This project is a React-based dashboard that provides a user interface for managing various aspects of an application or system. It includes components for new arrivals, sales statistics, earnings, products, and more.
 
