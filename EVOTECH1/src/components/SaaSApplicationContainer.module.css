@@ -1,0 +1,283 @@
+@keyframes scale-up {
+  0% {
+    transform: scale(0.5);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+.saas {
+  margin: 0;
+}
+.saasApplication {
+  position: absolute;
+  top: 96px;
+  left: 0;
+  line-height: 19px;
+  font-weight: 600;
+  display: inline-block;
+  width: 108px;
+  height: 45px;
+}
+.libraryIcon {
+  position: absolute;
+  width: 77.96%;
+  top: calc(50% - 70.5px);
+  right: 12.41%;
+  left: 9.63%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 81px;
+  object-fit: cover;
+}
+.iconText,
+.item1 {
+  position: absolute;
+  top: 18px;
+  left: 52px;
+  width: 108px;
+  height: 141px;
+}
+.item1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 210px;
+  height: 197px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+}
+.item1:hover,
+.item2:hover,
+.item3:hover,
+.item4:hover,
+.item5:hover {
+  animation: 1s ease 0s infinite normal none scale-up;
+  opacity: 1;
+}
+.mainCategories {
+  position: absolute;
+  top: 96px;
+  left: calc(50% - 56.5px);
+  line-height: 19px;
+  font-weight: 600;
+}
+.layout4BlocksIcon {
+  position: absolute;
+  width: 62.21%;
+  top: calc(50% - 67px);
+  right: 18.05%;
+  left: 19.73%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 81px;
+  object-fit: cover;
+}
+.iconText1 {
+  position: absolute;
+  top: 15px;
+  left: calc(50% - 57px);
+  width: 113px;
+  height: 134px;
+}
+.item2 {
+  position: absolute;
+  top: 0;
+  left: 270px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 210px;
+  height: 197px;
+  overflow: hidden;
+}
+.item2:hover,
+.item3:hover,
+.item4:hover,
+.item5:hover {
+  cursor: pointer;
+}
+.videoTutorials {
+  position: absolute;
+  top: 93px;
+  left: 17.8px;
+  line-height: 19px;
+  font-weight: 600;
+  display: inline-block;
+  width: 89px;
+  height: 56px;
+}
+.movieLane2Icon {
+  position: absolute;
+  height: 47.65%;
+  width: 92.51%;
+  top: 0;
+  right: 7.49%;
+  bottom: 52.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.iconText2,
+.item3 {
+  position: absolute;
+  top: 24px;
+  left: 55.2px;
+  width: 106.8px;
+  height: 149px;
+}
+.item3 {
+  top: 0;
+  left: 571px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-mediumseagreen-200);
+  width: 210px;
+  height: 197px;
+  overflow: hidden;
+  color: var(--color-white);
+}
+.salesStatistics {
+  position: absolute;
+  top: 96px;
+  left: 0;
+  line-height: 19px;
+  font-weight: 600;
+  display: inline-block;
+  width: 121px;
+  height: 49px;
+}
+.bound {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rectangle62Copy,
+.rectangle62Copy2,
+.rectangle62Copy3,
+.rectangle62Copy4 {
+  position: absolute;
+  width: 12.5%;
+  border-radius: var(--br-11xs);
+  background-color: var(--color-silver-100);
+}
+.rectangle62Copy {
+  height: 66.63%;
+  top: 16.63%;
+  right: 33.33%;
+  bottom: 16.74%;
+  left: 54.17%;
+  opacity: 0.3;
+  mix-blend-mode: normal;
+}
+.rectangle62Copy2,
+.rectangle62Copy3,
+.rectangle62Copy4 {
+  height: 45.81%;
+  top: 37.56%;
+  right: 54.17%;
+  bottom: 16.63%;
+  left: 33.33%;
+}
+.rectangle62Copy3,
+.rectangle62Copy4 {
+  height: 37.56%;
+  top: 45.81%;
+  right: 12.5%;
+  left: 75%;
+}
+.rectangle62Copy3 {
+  height: 29.19%;
+  top: 54.19%;
+  right: 75%;
+  left: 12.5%;
+}
+.equalizer {
+  position: absolute;
+  height: 59.31%;
+  width: 69.42%;
+  top: 0;
+  right: 23.14%;
+  bottom: 40.69%;
+  left: 7.44%;
+}
+.iconText3,
+.item4 {
+  position: absolute;
+  top: 21px;
+  left: 54px;
+  width: 121px;
+  height: 145px;
+}
+.item4 {
+  top: 0;
+  left: 847px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 210px;
+  height: 197px;
+  overflow: hidden;
+}
+.arcSecurity {
+  position: absolute;
+  top: 91px;
+  left: 0;
+  line-height: 19px;
+  font-weight: 600;
+}
+.shieldCheckIcon {
+  position: absolute;
+  height: 58.14%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 41.86%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.iconText4 {
+  position: absolute;
+  top: 34px;
+  left: 58px;
+  width: 95px;
+  height: 129px;
+}
+.item5,
+.tabs1 {
+  position: absolute;
+  height: 197px;
+  overflow: hidden;
+}
+.item5 {
+  top: 0;
+  left: 1111px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 210px;
+}
+.tabs1 {
+  top: 172px;
+  left: 400px;
+  width: 1343px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-silver-100);
+  font-family: var(--font-poppins);
+}
